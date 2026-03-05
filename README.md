@@ -1,3 +1,7 @@
+#questao 1 girroto trabalho 4
+
+
+
 #include <stdio.h>
 #include <math.h>
 
